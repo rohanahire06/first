@@ -19,5 +19,4 @@ public class patterns {
             System.out.print("\n");
         }
     }
-    
 }
